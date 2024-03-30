@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Brett Cooley</h1>
-- 🌱 I’m currently learning Python
+- I’m currently learning Python
 
-- 📫 How to reach me Brett.c@btinternet.com
+- Please contact me via my email address -  Brett.c@btinternet.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
