@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Brett Cooley</h1>
-<h3 align="left"> I’m currently learning Python :</h3>
+<h3 align="left"> I’m currently learning Python fundamentals on Hyperiondev's Software Engineer bootcamp :</h3>
 
 <h3 align="left"> Please contact me via my email address -  Brett.c@btinternet.com </h3>
 
