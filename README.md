@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm Brett Cooley</h1>
 
-<h3 align="left"> I am on a hyperiondev skills bootcamp to become software engineer. </h3>
+<h3 align="left"> I have recently graduated from hyperiondev skills bootcamp and seeking to become software engineer / Devops engineer. </h3>
 
 
 - 🌱 I’m currently learning **Python**
-- 🥅 2024 goals: land my first tech job as a software engineer.
+- 🥅 2024 goals: land my first tech job.
 - ⚡ Fun fact: I love to draw and animate.
 
 <h3 align="left"> contact me via email -  Brett.c@btinternet.com </h3>
