@@ -1,14 +1,38 @@
 
 <h1 align="center">Hi, I'm Brett Cooley</h1>
 
-<h3 align="left"> I have recently graduated from hyperiondev skills bootcamp and seeking to become software engineer / Devops engineer. </h3>
+<h3 align="center">
+Full Stack Developer | Azure Cloud Engineer
+</h3>
 
+<p align="center">
+I build clean, responsive websites and cloud-powered applications.
+Currently transitioning into tech with a focus on real-world projects and Azure.
+</p>
 
-- 🌱 I’m currently learning **Python**
-- 🥅 2024 goals: land my first tech job.
-- ⚡ Fun fact: I love to draw and animate.
+---
 
-<h3 align="left"> contact me via email -  Brett.c@btinternet.com </h3>
+### 🚀 About Me
+- 💻 Building full-stack web applications (HTML, CSS, JavaScript, Node.js)
+- ☁️ Learning and working with Microsoft Azure (AZ-104 in progress)
+- 🎯 Goal: Land my first full-time developer / cloud role
+- 🎨 Background in animation & design (After Effects, Illustrator)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 📫 Contact
+- Email: Brett.c@btinternet.com
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/> 
+</p>
